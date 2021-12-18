@@ -1,7 +1,15 @@
 # Swingbiter
 ***
 
-I'm learning all the time!
+I like to make all sorts of things. So I'm learning all the time!
+
+My general approach is to throw electronics and code at things until they are better.
+
+>“Since we decided a few weeks ago to adopt the leaf as legal tender, we have, of course, all become immensely rich.”   
+> \- *Douglas Adams*
+
+> "I DON'T KNOW ABOUT YOU, he said, BUT I COULD MURDER A CURRY.”   
+> \- *Sir Terry Pratchett*
 
 ***
 ### Languages
